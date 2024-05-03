@@ -1,1 +1,2 @@
-this is to understanding branches
+this is the file to understand rebase linear history
+
